@@ -1,0 +1,14 @@
+multiple URL's
+check if url is already escaped with special char.
+match subdomains
+
+
+URL does not work..
+http://maps.google.com - maps http://maps as one string.
+
+
+Places - String Regex
+- Insight
+- 
+
+
